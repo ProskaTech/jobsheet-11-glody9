@@ -1,5 +1,9 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+Nama : glody syah
+NIM : 21343077
+
+1. Latihan 1 : membuat dua class satu sebagai induk satu lagi sebagai anak, yang kemudian dijalankan pada program TesPertamaKedua yang memanggil kedua kelas. kelas anak mewarisi kelas induk
+2. Latihan 2 : membuat dua kelas person dan employ sebagai induk dan anak. kelas employ mewarisi kelas person. Kemudian memanggil method info pada kelas employ untuk ditampilkan
+3. Latihan 3 : membuat dua kelas hewan dan gajah yang kemudian kelas gajah mengoverride kelas hewan 
+4. Latihan 4 : membuat dua kelas A dan B yang kemudian kelas B melakukan override terhadap method pada kelas A . kelas B memanggil method dalam kelas A dengan super
+5. Latihan 5 : membuat kelas bus yang kemudian methodnya dipanggil oleh kelas ujiBus
+6. Latihan 6 : membuat kelas bus2 yang kemudian method methodnya dipanggil oleh kelas ujiBus2
